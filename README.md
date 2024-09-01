@@ -1,9 +1,9 @@
 # React + Vite
 # Real_Time_Chat_App
 
-run npm Install
-run npm run dev
-run project in [localhost//
+# run npm Install
+# run npm run dev
+# run project in [localhost//
 ](http://localhost:5173)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
