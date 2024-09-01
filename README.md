@@ -6,6 +6,11 @@
 # run : "project in [localhost//
 ](http://localhost:5173)"
 
+![Screenshot 2024-09-01 162416](https://github.com/user-attachments/assets/9fcc0250-2cfb-4669-b475-12dbe94877a1)
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
